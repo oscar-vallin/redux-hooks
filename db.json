@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Proteina",
+      "price": "1200",
+      "id": 6
+    },
+    {
+      "name": "Creatina",
+      "price": 200,
+      "id": 7
+    },
+    {
+      "name": "Oxido",
+      "price": 350,
+      "id": 8
+    },
+    {
+      "name": "Glutamina",
+      "price": "300",
+      "id": 9
+    }
+  ]
+}
